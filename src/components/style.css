@@ -179,8 +179,16 @@ body {
   display: flex;
   justify-content: center;
   text-align: center;
-  margin-top: -150px;
   margin-bottom: 50px;
+}
+
+.connection-msg {
+  background-color: #75f300;
+  color: #ffffff;
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
 }
 
 /*Resize the wrap to see the search bar change!*/
