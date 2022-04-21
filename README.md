@@ -1,5 +1,5 @@
 ### `Live url`
-https://weather-react-app-data.netlify.app/
+https://weather-react-app-mohip.netlify.app/
 
 ### `npm start`
 
